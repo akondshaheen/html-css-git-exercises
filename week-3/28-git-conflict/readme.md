@@ -1,3 +1,5 @@
+**********\***********I require help with this.
+
 # Git Merge Conflict
 
 In this exercise you will learn how to work with two branches that have "diverged". Branches diverge when one branch has a commit that doesn't exist in the other branch. In some cases, git can not merge them and you have a "merge conflict".
